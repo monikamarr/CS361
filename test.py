@@ -1,0 +1,1 @@
+print("Hi, this is test commit for CS361 - Assignment 2")
